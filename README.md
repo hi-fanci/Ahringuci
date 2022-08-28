@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/58725532?v=4" width="100"/>
+  <img src="https://avatars.githubusercontent.com/u/58725532?v=4" width="256"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/huy-bii-6369aa1b8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
